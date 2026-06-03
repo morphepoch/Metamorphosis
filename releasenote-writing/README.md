@@ -16,6 +16,7 @@ This project currently belongs to:
 
 ```text
 Metamorphosis/
-  verbal-aesthetics/
-    releasenote-writing/
+  releasenote-writing/
 ```
+
+It is part of the **verbal aesthetics** category inside Metamorphosis.

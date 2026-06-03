@@ -29,24 +29,6 @@ The current uploaded skill in this repository is:
 
 It is a writing skill for turning internal product notes into polished user-facing release notes and product announcements.
 
-It now lives under the verbal aesthetics track:
+It belongs to the **verbal aesthetics** direction and currently lives at:
 
-- `verbal-aesthetics/releasenote-writing/`
-
-The current repository structure is:
-
-```text
-Metamorphosis/
-  verbal-aesthetics/
-    releasenote-writing/
-  visual-aesthetics/
-  logical-aesthetics/
-```
-
-## Why Metamorphosis
-
-Metamorphosis is where I explore how AI can move across product thinking, aesthetics, and systems design:
-
-- where language becomes interface
-- where logic becomes form
-- where code, sometimes, becomes poetry
+- `releasenote-writing/`

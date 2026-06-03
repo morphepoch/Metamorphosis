@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Note Writing"
+  short_description: "Draft update announcements in three product styles"
+  default_prompt: "Use $releasenote-writing to turn these feature notes into a polished user-facing release announcement."
